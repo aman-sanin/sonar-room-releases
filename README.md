@@ -89,6 +89,8 @@ Deliberately small:
 
 ## License
 
-The Sonar Room is **free to play**. The released APK may be downloaded, installed, and played at no cost, for personal, non-commercial use.
+The Sonar Room is **free to play**. It is licensed under the **PolyForm Noncommercial License 1.0.0** (see the `LICENSE` file for full terms).
 
-**All rights reserved.** The game — its design, rules, text, source code, and compiled binaries — is the property of the author. You may not redistribute, modify, decompile, reverse-engineer, repackage, or sell it, or publish derivative works, without written permission. This applies to the game as a whole; the bundled typefaces remain under their own licenses as noted in `licenses/`.
+This means you are free to download, play, share, and modify the game for any **noncommercial purpose**. However, all commercial rights are strictly reserved by the author. You may not sell the game, bundle it into a commercial product, or otherwise use it for commercial gain without written permission. 
+
+This applies to the game as a whole (design, rules, text, source code, and compiled binaries); the bundled typefaces remain under their own respective licenses as noted in `licenses/`.
